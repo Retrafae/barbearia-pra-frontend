@@ -1,29 +1,5 @@
-p{
-
-color: rgb(255, 255, 255);
-font-size: x-large;
-}
-
-h2{
-
-color: blueviolet;
-font-size: xx-large;
-font-weight: bolder;
-
-
-}
-
-
-.imagem{
-
-display: block;
-margin-left: auto;
-margin-right: auto;
-max-width: 500px;
-
-}
-
 h1{
+
     color: cadetblue;
     background-color: chocolate;
     font-size: 100px;
@@ -31,8 +7,20 @@ h1{
 
 }
 
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
 body{
+
     background-image: url(https://previews.123rf.com/images/binkski/binkski1510/binkski151000001/47034285-a-steampunk-background-with-clocks-dials-gears-and-cogs-pipes-and-switches.jpg);
 
+}
+nav{
+
+    color: white;
 
 }
